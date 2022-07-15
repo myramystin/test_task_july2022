@@ -1,0 +1,9 @@
+C:\Users\MI\source\repos\geometry\geometry\bin\Debug\netstandard2.0\geometry.deps.json
+C:\Users\MI\source\repos\geometry\geometry\bin\Debug\netstandard2.0\geometry.dll
+C:\Users\MI\source\repos\geometry\geometry\bin\Debug\netstandard2.0\geometry.pdb
+C:\Users\MI\source\repos\geometry\geometry\obj\Debug\netstandard2.0\geometry.csprojAssemblyReference.cache
+C:\Users\MI\source\repos\geometry\geometry\obj\Debug\netstandard2.0\geometry.csproj.CoreCompileInputs.cache
+C:\Users\MI\source\repos\geometry\geometry\obj\Debug\netstandard2.0\geometry.AssemblyInfoInputs.cache
+C:\Users\MI\source\repos\geometry\geometry\obj\Debug\netstandard2.0\geometry.AssemblyInfo.cs
+C:\Users\MI\source\repos\geometry\geometry\obj\Debug\netstandard2.0\geometry.dll
+C:\Users\MI\source\repos\geometry\geometry\obj\Debug\netstandard2.0\geometry.pdb
